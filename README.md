@@ -14,5 +14,16 @@ Using Atom and Git
   - [ ] Style your page with CSS
 - [ ] Confirm your page uses valid HTML and CSS
 - [ ] [Publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-- [ ] Bonus (5%): Add a table with your weekly dream schedule (what you will do when the robots take over)
-- [ ] Points: info: `4`, instructions: `4`, metaphor: `3`, online: `3`, valid html `3`, valid css: `3` (`-1` for each warning or error)
+- [ ] Points: `20`
+  - [ ] `4` info
+  - [ ] `4` follow instructions
+  - [ ] `4` metaphor
+  - [ ] `4` online/accessible
+  - [ ] `4` valid HTML and CSS 
+  - [ ] `5%` Bonus - Add a table with your weekly dream schedule (what you will do when the robots take over)
+
+
+
+### Resources
+
+- See this list of [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css) for tutorials and references to complete this assignment.
