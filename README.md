@@ -13,7 +13,7 @@ Using Atom and Git
   - [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”)
   - [ ] Style your page with CSS
   - [ ] Save your work and commit and push changes regularly
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
+- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
 - [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
 - [ ] Points: `20`
   - [ ] `4` info
