@@ -14,13 +14,13 @@ Using Atom and Git
   - [ ] Style your page with CSS
   - [ ] Save your work and commit and push changes regularly
 - [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 - [ ] Points: `20`
   - [ ] `4` info
   - [ ] `4` follow instructions
   - [ ] `4` metaphor
   - [ ] `4` online/accessible
-  - [ ] `4` valid HTML and CSS 
+  - [ ] `4` valid HTML and CSS
   - [ ] `5%` Bonus - Add a table with your weekly dream schedule (what you will do when the robots take over)
 
 
