@@ -1,5 +1,7 @@
-# A2: View Source
 
+# View Source
+
+![hello-world](assets/img/view-source.png)
 
 ## Instructions
 
@@ -15,16 +17,25 @@ Using Atom and Git
   - [ ] Save your work and commit and push changes regularly
 - [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
 - [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
-- [ ] Points: `20`
-  - [ ] `4` info
-  - [ ] `4` follow instructions
-  - [ ] `4` metaphor
-  - [ ] `4` online/accessible
-  - [ ] `4` valid HTML and CSS
-  - [ ] `5%` Bonus - Add a table with your weekly dream schedule (what you will do when the robots take over)
 
 
 
-### Resources
+<details>
+<summary>Grading</summary>
 
-- Course [HTML & CSS Resources](https://github.com/omundy/critical-web-design/blob/master/README.md#html--css)
+Points | Description
+---: | ---
+4 | Correct information provided
+4 | Instructions followed
+4 | Degree to which the metaphor was thoughtful and relevant
+4 | Project is online, accessible, and linked from Moodle
+4 | Valid HTML and CSS
+5% | Bonus! Add a table with your weekly dream schedule (what you will do when the robots take over)
+20 | Total possible
+
+</details>
+
+
+## Resources
+
+- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
