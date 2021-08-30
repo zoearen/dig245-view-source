@@ -61,7 +61,7 @@ Points | Description
 
 ## Resources
 
-- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
 
 
 
