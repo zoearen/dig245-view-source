@@ -47,7 +47,7 @@ Points | Description
 4 | Correct information provided
 4 | Instructions followed
 4 | Degree to which the metaphor was thoughtful and relevant
-4 | Project is online, accessible, and linked from Moodle
+4 | Project is online, accessible, and linked from Moodle by the deadline
 4 | Valid HTML and CSS
 5% | Bonus! Add a table with your weekly dream schedule (what you will do when the robots take over)
 20 | Total possible
