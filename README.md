@@ -45,7 +45,7 @@ Complete the following to prepare for this assignment
 
 - [ ] Use HTML, CSS, and JS to code your design inside `index.html`
 - [ ] Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
-- [ ] Style your page with CSS using `<style>` tag or an external stylesheet file.
+- [ ] Style your page with CSS using `<style>` tag or an external stylesheet file. Experiment!
 - [ ] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
 - [ ] Using an unordered list, write **three other** things you can do with the Dev Tools.
 - [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”).
@@ -109,3 +109,6 @@ via [console.love](https://www.console.love/)
 
 ![view source](assets/img/console-zhi.hu.png)
 [zhihu.com](https://www.zhihu.com/)
+
+[google "text adventure"](https://www.google.com/search?q=text+adventure)
+[microsoft](https://microsoft.github.io/join-dev-design/)
