@@ -4,6 +4,7 @@
 Learn how to use Dev Tools!
 
 ![view source](assets/img/console-what-is-code.png)
+
 <sup>Paul Ford <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> 2015</sup>
 
 
@@ -11,7 +12,7 @@ Learn how to use Dev Tools!
 <details>
 <summary>Learning Objectives</summary>
 
-Students who complete the following will be able to:
+Students who complete this assignment will be able to:
 
 - Recall the main structural tags required for HTML documents  
 - Describe how to access and use Chrome Dev Tools for web development
@@ -23,7 +24,7 @@ Students who complete the following will be able to:
 <details>
 <summary>Preparation</summary>
 
-Complete the following to prepare for this assignment
+Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
 - [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
 - [Codecademy: HTML 2-1 Tables](https://www.codecademy.com/learn/learn-html) (1-13)
