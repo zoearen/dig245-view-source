@@ -39,37 +39,37 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 ## Instructions
 
-- [ ] Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+1. Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
+1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 #### Code
 
-- [ ] Use HTML, CSS, and JS to code your design inside `index.html`
-- [ ] Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
-- [ ] Style your page with CSS using `<style>` tag or an external stylesheet file. Experiment!
-- [ ] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
-- [ ] Using an unordered list, write **three other** things you can do with the Dev Tools.
-- [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”).
-- [ ] Find a website with interesting content in the console. Add a screenshot and link to the page.
-- [ ] Using Javascript, add your own secret message for curious users to the console. Add your code using either the `script` tag at the end of the document, or link to an external `.js` file. Experiment with different `console` [ methods](https://developer.mozilla.org/en-US/docs/Web/API/console).
-- [ ] Add an image of your favorite animal somewhere on the page.
+1. Use HTML, CSS, and JS to code your design inside `index.html`
+1. Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
+1. Style your page with CSS using `<style>` tag or an external stylesheet file. Experiment!
+1. Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
+1. Using an unordered list, write **three other** things you can do with the Dev Tools.
+1. Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”).
+1. Find a website with interesting content in the console. Add a screenshot and link to the page.
+1. Using Javascript, add your own secret message for curious users to the console. Add your code using either the `script` tag at the end of the document, or link to an external `.js` file. Experiment with different `console` [ methods](https://developer.mozilla.org/en-US/docs/Web/API/console).
+1. Add an image of your favorite animal somewhere on the page.
 
 #### Publish
 
-- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- [ ] Commit changes regularly.
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. Commit changes regularly.
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
 
 <!--  
 Explain how your metaphor communicates the act of looking at source code
-- [ ] Does it still communicate your experience of being able to look “under the hood” after you now have learned to code?
-- [ ] Why is it important to be able to look at the source code of a web page when you are making web pages?
-- [ ] Did you look at source code to make something this semester? Write about it.
-- [ ] Why is it important to see how things you consume are constructed? What are the larger sociological arguments for transparency? Think about ingredients in the food you eat or chemicals from a factory or how laws are made for example. -->
+1. Does it still communicate your experience of being able to look “under the hood” after you now have learned to code?
+1. Why is it important to be able to look at the source code of a web page when you are making web pages?
+1. Did you look at source code to make something this semester? Write about it.
+1. Why is it important to see how things you consume are constructed? What are the larger sociological arguments for transparency? Think about ingredients in the food you eat or chemicals from a factory or how laws are made for example. -->
 
 
 
