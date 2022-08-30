@@ -9,17 +9,21 @@ Learn how to use Dev Tools!
 
 
 
+## Introduction
+
+
 <details>
 <summary>Learning Objectives</summary>
 
 Students who complete this assignment will be able to:
 
-- Recall the main structural tags required for HTML documents  
+- Recall the main structural tags required for HTML documents
 - Describe how to access and use Chrome Dev Tools for web development
 - Compare reasons for using `<style>`, `<link>`, and `<script>` tags
 - Code a web page using HTML, CSS, and Javascript
 
 </details>
+
 
 <details>
 <summary>Preparation</summary>
@@ -37,12 +41,17 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-## Instructions
+
+## Assigment
+
+
+### Setup
 
 1. Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
 1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
-#### Code
+
+### Code
 
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
@@ -54,17 +63,17 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 1. Using Javascript, add your own secret message for curious users to the console. Add your code using either the `script` tag at the end of the document, or link to an external `.js` file. Experiment with different `console` [ methods](https://developer.mozilla.org/en-US/docs/Web/API/console).
 1. Add an image of your favorite animal somewhere on the page.
 
-#### Publish
+### Publish
 
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
-1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
 1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
 
-<!--  
+<!--
 Explain how your metaphor communicates the act of looking at source code
 1. Does it still communicate your experience of being able to look “under the hood” after you now have learned to code?
 1. Why is it important to be able to look at the source code of a web page when you are making web pages?
@@ -83,7 +92,7 @@ Points | Description
 4 | Degree to which the metaphor was thoughtful and relevant
 4 | Project is online, accessible, and linked from Moodle by the deadline
 4 | Valid HTML and CSS
-5% | Bonus! Add a table with your weekly dream schedule (what you will do when the robots take over)
++5% | Bonus! Add an html table with your weekly dream schedule (what you will do when the robots take over)
 20 | Total possible
 
 </details>
@@ -95,7 +104,7 @@ Points | Description
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
 
 
 
@@ -103,7 +112,9 @@ Points | Description
 
 ## Console Examples
 
-via [console.love](https://www.console.love/)
+![view source](assets/img/jodi-wwwwwwwww-1.png)
+![view source](assets/img/jodi-wwwwwwwww-2.png)
+[wwwwwwwww.jodi.org](https://wwwwwwwww.jodi.org/)
 
 ![view source](assets/img/console-ericwbailey.design.png)
 [ericwbailey.design](https://ericwbailey.design/)
@@ -111,5 +122,7 @@ via [console.love](https://www.console.love/)
 ![view source](assets/img/console-zhi.hu.png)
 [zhihu.com](https://www.zhihu.com/)
 
-[google "text adventure"](https://www.google.com/search?q=text+adventure)
-[microsoft](https://microsoft.github.io/join-dev-design/)
+![view source](assets/img/console-text-game.png)
+[google "text adventure"](https://www.google.com/search?q=text+adventure) [microsoft](https://microsoft.github.io/join-dev-design/)
+
+More at [console.love](https://www.console.love/)
