@@ -48,7 +48,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 ### Setup
 
 1. Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
-1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
+1. [Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
 
 
 ### Code
