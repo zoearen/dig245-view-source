@@ -37,6 +37,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [Codecademy: CSS 1-1 Setup and Selectors](https://www.codecademy.com/learn/learn-css) (1-17)
 - [Codecademy: CSS 1-2 Visual Rules](https://www.codecademy.com/learn/learn-css) (1-10)
 - Quiz 1 - Intro to HTML
+- Course content listed on the schedule
 
 </details>
 
