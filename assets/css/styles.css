@@ -1,2 +1,49 @@
+body {
+	color: black;
+	background-color: Seashell;
+}
 
-/* css */
+h1 {
+	color: salmon;
+	text-align: center;
+  font-family: "Roboto", sans-serif;
+	font-size: 20px;
+}
+
+h2 {
+  color: salmon;
+  text-align:left;
+
+}
+p {
+	font-family: verdana;
+	font-size: 20px;
+}
+p {
+   margin-top: 20px;
+   margin-right: 10px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+}
+p { margin: 10px; } /* set all margins to 10px */
+p { margin: 20px 10px; } /* set top/bottom margins to 20px and left/right to 10px */
+p { margin: 2px 4px 6px 8px; } /* set them all */
+
+body {
+	background-color: #ffffff;
+	background-image: url("img_tree.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+h3 { padding: 10px; } /* set all padding to 10px */
+body {
+	background: #ffffff url("img_tree.png") no-repeat right top;
+}
+p {
+	border-width: 5px;
+	border-style: solid;
+	border-color: red;
+}
+.rounded { border-radius: 10px; }
+
+#logo { font: 12px/16px Arial; }

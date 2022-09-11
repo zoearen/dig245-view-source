@@ -1,15 +1,89 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html> 
+<html lang="en">
 <head>
+  <title>DIG 245 View Source</title>
 
-<!-- meta tags, links to css, etc. -->
-<title>DIG 245 View Source</title>
+  <style>
+    body {
+      background-color: Seashell;
+      font-family: "Roboto", sans-serif;
+      text-align: left;
+    }
+    h1 {
+      color: salmon;
+      font-size: 100px;
+    }
+    h2 {
+      color: salmon;
+      font-size: 20px;
+    }
+    p {
+      font-size: 16px;
+    }
+    li {
+      font-size: 16px;
+    }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+    }
+    .column {
+      float: left;
+      width: 50%;
+    }
+    .image {
+      border-radius: 90%;
+      height: 600px;
+    }
+    .avatar {
+      border-radius: 100%;
+      height: 100px;
+      width: 100px;
+    }
+  </style>
 
 </head>
 <body>
 
-<!-- visible content goes here -->
-<h1>DIG 245 View Source</h1>
+  <h1 class="intro">
+    <!-- visible content goes here -->
+    <h1> <img src="assets/img/shifu.jpeg" alt="shifu" class="avatar" /> DIG 245 VIEW SOURCE </h1>
+    <div class="column">
+      <h2> Viewing the Source Code of Binary Piano on Google Chrome </h2>
+
+      <ul>
+        <li> Open a tab in Google Chrome. </li>
+        <li> Go to <a href="https://binarypiano.com/"> binarypiano.com </a>. </li>
+        <li> Click the three dots on the upper right corner of the browser screen </li>
+        <li> Click "More Tools" </li>
+        <li> Click "Developer Tools." A panel should pop up on the right side of the screen. </li>
+        <li> Navigate to the "Sources" tab </li>
+        <li> Under "binarypiano.com," click (index) </li>
+        <li> Now you can see the source code for binarypiano.com! </li>
+      </ul>
+
+      <h2> Other Dev Tools Actions </h2>
+
+      <ul>
+        <li> <b> Edit HTML in Elements: </b> you can edit HTML through Dev Tools in the elements tab - changes will appear as if they have actually been made to the source code.</li>
+        <li> <b> Clear Cookies: </b> In the Application panel go to Storage > Cookies to either clear all cookies or an individual cookie.</li>
+        <li> <b> Color Palette and Picker: </b> In Styles, click a color swatch from the library, or use the color picker to select any color on the screen.</li>
+      </ul>
+
+      <p> My new metaphor for viewing source is <b> "Digging up Developer Dirt" </b> </p>
+      <h2> Secret Message </h2>
+      <p> To get to the amazing message on the right, open <a href="https://www.theoatmeal.com/"> theoatmeal.com </a> in Google Chrome and right click on the page. Scroll down and click on "View Page Source" to see the code in another tab.</p>
+    </div>
+
+    <div class="column">
+      <img src="assets/img/theoatmeal.png" alt="theoatmeal" class="center" class="image"/>
+    </div>
+
+    <script>
+      console.log("The most challenging part about this assignment was figuring out how to assign classes and use them for stylistic choices. It was fun to explore formatting options, as well as learning how to navigate Dev Tools. I am very excited that I was able to figure out how to create columns on my page.");
+    </script>
 
 </body>
 </html>
